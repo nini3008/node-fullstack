@@ -1,2 +1,2 @@
 # node-fullstack
-Full Stack Web Development - Node and React
+Full Stack Web Development - Node and React (lessons from stephen grider)
